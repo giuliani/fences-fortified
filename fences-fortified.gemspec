@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["perryg.88@gmail.com"]
 
   spec.summary       = "Fences Fortified is an adaptation of the Fences library. Created to provide authorization for your Ruby on Rails app."
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/giuliani/fences-fortified"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
